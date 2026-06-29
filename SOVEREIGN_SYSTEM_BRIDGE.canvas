@@ -1,0 +1,158 @@
+{
+  "nodes": [
+    {
+      "id": "group_tier1",
+      "type": "group",
+      "x": -20,
+      "y": -60,
+      "width": 960,
+      "height": 240,
+      "label": "[TIER 01: THE COMMAND BRIDGE / STRATEGIC OVERVIEW]",
+      "color": "1"
+    },
+    {
+      "id": "node_identity",
+      "type": "text",
+      "text": "### OPERATOR PROFILE\n* **Name:** Sami\n* **Role:** Chief of Business Operations\n* **Focus:** Macro Strategy & Overview\n* **Status:** Sovereign Node (Offline)",
+      "x": 20,
+      "y": 0,
+      "width": 280,
+      "height": 140,
+      "color": "1"
+    },
+    {
+      "id": "node_protocol",
+      "type": "text",
+      "text": "### THE CHEETOPOLVER PROTOCOL\n* **Mandate:** Absolute physical hardware hygiene & respect.\n* **Telemetry Status:** Net-Zero Leaks.\n* **Shield Status:** Shutter Active.",
+      "x": 340,
+      "y": 0,
+      "width": 280,
+      "height": 140,
+      "color": "1"
+    },
+    {
+      "id": "node_rules",
+      "type": "text",
+      "text": "### CORE WORKSPACE LAWS\n1. **Always Enumerate Entire Response**\n2. **Enforce British English Formatting**\n3. **Asynchronous Input Buffering**",
+      "x": 660,
+      "y": 0,
+      "width": 240,
+      "height": 140,
+      "color": "1"
+    },
+    {
+      "id": "group_tier2",
+      "type": "group",
+      "x": -20,
+      "y": 240,
+      "width": 960,
+      "height": 260,
+      "label": "[TIER 02: THE PROCESSING ENGINES / ACTIVE SYSTEM LANES]",
+      "color": "3"
+    },
+    {
+      "id": "node_lane_midi",
+      "type": "text",
+      "text": "### LANE_03_HARDWARE (MIDI)\n* **Target Asset:** 1989 Korg M3R Module\n* **Filter Status:** Caliper Delta Bitmask Active\n* **Constraint:** `abs(CC) >= 3` Jitter Throttling",
+      "x": 20,
+      "y": 300,
+      "width": 280,
+      "height": 150,
+      "color": "3"
+    },
+    {
+      "id": "node_lane_drift",
+      "type": "text",
+      "text": "### ASYNC DRIFT MECHANICS\n* **04:00 Sanctuary:** Net-zero external pings.\n* **Flow State Optimization:** High-velocity macro processing windows.\n* **Arbitrage:** Chaos exploitation.",
+      "x": 340,
+      "y": 300,
+      "width": 280,
+      "height": 150,
+      "color": "3"
+    },
+    {
+      "id": "node_lane_cascades",
+      "type": "text",
+      "text": "### VALIDATION CASCADES\n* **UI Thread Guard:** 150ms temporal debounce.\n* **Task Ingress:** Headless, asynchronous thread worker pool execution.",
+      "x": 660,
+      "y": 300,
+      "width": 240,
+      "height": 150,
+      "color": "3"
+    },
+    {
+      "id": "group_tier3",
+      "type": "group",
+      "x": -20,
+      "y": 560,
+      "width": 960,
+      "height": 240,
+      "label": "[TIER 03: THE REPOSITORY DEPOTS / LOCAL STORAGE ASSETS]",
+      "color": "6"
+    },
+    {
+      "id": "node_repo_reason",
+      "type": "text",
+      "text": "### REASON PROJECT RECLAMATION\n* **Mission:** Revive legacy file blueprints.\n* **Strategy:** Strip tedious mouse-work; export note matrices to JSON schemas.",
+      "x": 20,
+      "y": 610,
+      "width": 280,
+      "height": 140,
+      "color": "6"
+    },
+    {
+      "id": "node_repo_backup",
+      "type": "text",
+      "text": "### LOCAL BACKUP MATRIX\n* **Primary Workspace:** High-velocity NVMe M.2 SSD.\n* **Cold Offline Vault:** Heavy mechanical enterprise-class HDD tank.",
+      "x": 340,
+      "y": 610,
+      "width": 280,
+      "height": 140,
+      "color": "6"
+    },
+    {
+      "id": "node_repo_complain",
+      "type": "text",
+      "text": "### COMPLAIN & RESOLVE VAULT\n* **Path:** `..\\complain_and_resolve\\`\n* **Verification Token:** `AUDIT_BLINDSPOT_2026_05_18`\n* **Security:** Shutter Shielded.",
+      "x": 660,
+      "y": 610,
+      "width": 240,
+      "height": 140,
+      "color": "6"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge1",
+      "fromNode": "node_identity",
+      "fromSide": "bottom",
+      "toNode": "node_lane_drift",
+      "toSide": "top",
+      "color": "1"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "node_protocol",
+      "fromSide": "bottom",
+      "toNode": "node_lane_midi",
+      "toSide": "top",
+      "color": "1"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "node_lane_drift",
+      "fromSide": "bottom",
+      "toNode": "node_repo_reason",
+      "toSide": "top",
+      "color": "3"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "node_lane_cascades",
+      "fromSide": "bottom",
+      "toNode": "node_repo_backup",
+      "toSide": "top",
+      "color": "3"
+    }
+  ]
+}
