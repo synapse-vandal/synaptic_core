@@ -5,6 +5,8 @@
 **Purpose:** Reference canon for editorial voice, argument framing, and cross-reference. When an essay invokes a formal move or cultural mechanism, this document is the map of where that move was established and what it means in the Carnival Arts frame. Not a reading list. A toolkit.
 **Maintenance:** Add as identified. Flag if a work is being added to the body of an essay -- cross-reference both ways.
 
+**Backlink workflow:** Keep entries here concise -- one or two sentences of function. Deep analysis lives in the essay where the reference is called. When a work is developed in a published essay, add `[See: CA_filename.md]` to the entry and trim the guide entry accordingly. The guide is the index; the essays are the text.
+
 ---
 
 ## HOW TO USE THIS DOCUMENT
@@ -147,13 +149,13 @@ Named concepts in use across the canon:
 
 ## LINGUISTICS
 
-**Norman/Saxon vocabulary divide** -- the oldest Neon Aesop in the English language, hiding in plainest sight. Post-1066 English splits along conquest lines: Saxon names the animal as the peasant tended it (cow, ox, swine, sheep, calf, deer); Norman names the animal as the aristocrat consumed it (beef, pork, mutton, veal, venison). The offal and leftovers are Saxon -- ox tongue, oxtail, ox liver -- because the aristocracy took the premium cuts and left the working population with the waste. The language records the division of economic power with perfect fidelity across nine centuries. The Aesop function inverted: not fiction protecting truth, but language *being* the truth, legible only once you know to look. [DEVELOPED: CA_offal_english.md]
+**Norman/Saxon vocabulary divide** -- the oldest Neon Aesop in the English language, hiding in plainest sight. Post-1066 English splits along conquest lines: Saxon names the animal as the peasant tended it (cow, ox, swine, sheep, calf, deer); Norman names the animal as the aristocrat consumed it (beef, pork, mutton, veal, venison). The offal and leftovers are Saxon -- ox tongue, oxtail, ox liver -- because the aristocracy took the premium cuts and left the working population with the waste. The language records the division of economic power with perfect fidelity across nine centuries. The Aesop function inverted: not fiction protecting truth, but language *being* the truth, legible only once you know to look. [See: CA_offal_english.md]
 
-**France vs Quebec French swearing** -- Metropolitan French profanity is rooted in the body (*con*, *foutre*, *putain*): sex and excretion casualised to punctuation, shock value spent. Quebec profanity (*sacres*) is almost entirely liturgical (*tabarnak*, *calice*, *ostie*, *crisse*) because the Catholic Church was the institutional oppressor in Quebec. The vocabulary of transgression becomes the vocabulary of power because *that* is the institution that dominated daily life. Find a culture's strongest swear words and find its deepest wound. **Platform corollary:** US content moderation algorithms flag Quebec swearing as religious hate speech -- culturally blind to the fact that in Quebec, swearing IS religious vocabulary. Same mechanism as the *Nieuwe Kuts* to *New Kids* sanitisation: different register, same erasure. [DEVELOPED: CA_offal_english.md]
+**France vs Quebec French swearing** -- Metropolitan French profanity is rooted in the body (*con*, *foutre*, *putain*): sex and excretion casualised to punctuation, shock value spent. Quebec profanity (*sacres*) is almost entirely liturgical (*tabarnak*, *calice*, *ostie*, *crisse*) because the Catholic Church was the institutional oppressor in Quebec. The vocabulary of transgression becomes the vocabulary of power because *that* is the institution that dominated daily life. Find a culture's strongest swear words and find its deepest wound. **Platform corollary:** US content moderation algorithms flag Quebec swearing as religious hate speech -- culturally blind to the fact that in Quebec, swearing IS religious vocabulary. Same mechanism as the *Nieuwe Kuts* to *New Kids* sanitisation: different register, same erasure. [See: CA_offal_english.md]
 
-**The Oxford Stammer** -- the deliberate hesitation ("um," "well," "I mean") deployed by Oxbridge-educated public figures as a rhetorical device. Same phoneme as a working-class hesitation; opposite decode. Without the surrounding class markers, the sound signals inarticulate. With them, it signals thoughtfulness. The stammer as floor-hold: the speaker doesn't know and is buying time by blocking interjection -- but the class markers grant the silence while they locate a position. The stammer does not require the speaker to be clever. It only requires the listener to grant the silence. Each generation of Oxbridge figures using the same phoneme in the same register legitimises the next: Validation Cascade as speech pattern. [SEED: CA_oxford_stammer_seed.md]
+**The Oxford Stammer** -- the deliberate hesitation ("um," "well") deployed by Oxbridge-educated public figures as a rhetorical device. Same phoneme as a working-class hesitation; opposite decode. The formation is the decoder, not the sound. Three-way taxonomy: deliberate weapon / genuine thinking aloud / floor-hold-while-ignorant -- the decode is identical for all three because it runs off the surrounding class markers, not the content of the pause. Validation Cascade as speech pattern. Boris Johnson as the clearest case; Rees-Mogg and Macmillan as variants. Includes Jar-Jar Protocol gloss (Boris as the mechanism through whom the emergency powers motion passes). [See: CA_oxford_stammer.md]
 
-**Euphemism as Co-optic operation** -- "oh sugar" instead of "oh shit": the person performing awareness of the forbidden word while pretending to avoid it. The substitution is dishonest on two levels: pretends to be polite AND pretends to mean something it doesn't. "Sugar" now carries the full semantic weight of "shit" as a euphemism. This is the *Nieuwe Kuts* to *New Kids* operation at the scale of individual speech: same content, sanitised label. [DEVELOPED: CA_offal_english.md, CA_neon_aesop.md prologue]
+**Euphemism as Co-optic operation** -- "oh sugar" instead of "oh shit": the person performing awareness of the forbidden word while pretending to avoid it. The substitution is dishonest on two levels: pretends to be polite AND pretends to mean something it doesn't. "Sugar" now carries the full semantic weight of "shit" as a euphemism. This is the *Nieuwe Kuts* to *New Kids* operation at the scale of individual speech: same content, sanitised label. [See: CA_offal_english.md]
 
 ---
 
@@ -168,18 +170,21 @@ Named concepts in use across the canon:
 
 ## CROSS-REFERENCE INDEX
 
-| Concept | Primary locus | See also |
-|:--------|:-------------|:---------|
-| Verhoeven Doctrine | *RoboCop*, *Starship Troopers* | Troma canon, *Four Lions*, *They Live* |
-| Verhoeven Problem | *Starship Troopers*, *South Park* | *Nathan Barley*, *The Thick of It*, *Black Mirror* |
-| Torment Nexus | *Snow Crash* (coined), *The Matrix* | *No Logo*, Blaxploitation strand |
-| Vengeance Protocol | *Blade Runner*, *Frankenstein* | *Darkman*, *The Toxic Avenger*, *Never Let Me Go* |
-| Jar-Jar Protocol | Phase 3, *Starship Troopers* | *Yes Minister*, *The Thick of It* |
-| Validation Cascade | CA_validation_cascade.md | Regulatory capture dossier, *Brazil*, *The Wire* |
-| Co-optic | CA_coptic_co-optic.md | Blaxploitation strand, *Trainspotting* title, Norman/Saxon |
-| Documentary Era | *The Act of Killing*, *13th* | *Manufacturing Consent*, *The Shock Doctrine* |
-| Phase 3 condition | *Starship Troopers* (1997), *Network* (1976) | *Black Mirror*, *Idiocracy*, Baudrillard |
-| GERTY vs HAL | *Moon* (2009) | *Blade Runner*, *Frankenstein*, *Never Let Me Go* |
+| Concept | Primary locus | Essays |
+|:--------|:-------------|:-------|
+| Verhoeven Doctrine | *RoboCop*, *Starship Troopers* | [CA_neon_aesop.md](CA_neon_aesop.md) |
+| Verhoeven Problem | *Starship Troopers*, *South Park* | [CA_neon_aesop.md](CA_neon_aesop.md) |
+| Torment Nexus | *Snow Crash* (coined), *The Matrix* | [CA_neon_aesop.md](CA_neon_aesop.md) |
+| Vengeance Protocol | *Blade Runner*, *Frankenstein* | [CA_neon_aesop.md](CA_neon_aesop.md) |
+| Jar-Jar Protocol | Phase 3 / *Attack of the Clones* -- Jar-Jar proposes the motion granting Palpatine emergency powers; the buffoon as the mechanism regardless of intent | [CA_neon_aesop.md](CA_neon_aesop.md), [CA_oxford_stammer.md](CA_oxford_stammer.md) |
+| Validation Cascade | Funding-conflict / regulatory bodies | [CA_validation_cascade.md](CA_validation_cascade.md), [CA_oxford_stammer.md](CA_oxford_stammer.md) |
+| Co-optic | Norman/Saxon divide; Nieuwe Kuts title | [CA_offal_english.md](CA_offal_english.md), [CA_coptic_co-optic.md](CA_coptic_co-optic.md) |
+| Documentary Era | *The Act of Killing*, *13th*, *The Wire* | [CA_neon_aesop.md](CA_neon_aesop.md) |
+| Phase 3 condition | *Network* (1976), *Starship Troopers* (1997) | [CA_neon_aesop.md](CA_neon_aesop.md) |
+| GERTY vs HAL | *Moon* (2009) | [CA_neon_aesop.md](CA_neon_aesop.md) |
+| Oxford Stammer | Boris / Rees-Mogg / Macmillan | [CA_oxford_stammer.md](CA_oxford_stammer.md) |
+| Norman/Saxon divide | Offal English; beef/cow | [CA_offal_english.md](CA_offal_english.md) |
+| Verhoeven Problem (TV) | *The Thick of It*, *Black Mirror* | Pending essay |
 
 ---
 

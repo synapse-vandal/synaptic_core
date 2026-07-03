@@ -77,5 +77,9 @@ Not everything worth waiting for is worth waiting for.
 
 ---
 
-*[Cross-references: CA_offal_english.md -- RP as rootless credential; CA_validation_cascade.md -- Cascade mechanism; CA_style_guide_touchstones.md -- Oxford Stammer entry under Linguistics]*
-*[Sources needed: Purnell / Gimson on Johnson's deliberate performance; sociolinguistics on prestigious hesitation / elite speech markers; interview footage comparison]*
+A footnote on the Jar-Jar Protocol. The Boris-as-Jar-Jar reading requires some precision about which Jar-Jar you mean. In *The Phantom Menace* he is pure buffoon: comic relief, widely mocked, the character everyone agrees is the problem with the film. That's the surface Boris read -- the one that ends at "the electorate found him amusing." But Jar-Jar's canonical political act comes in *Attack of the Clones*, when it is the Senator from Naboo, elevated from clown to legislature by the people who found him useful, who proposes the motion granting Palpatine emergency powers. The buffoon doesn't just get laughed into the room. The buffoon makes the vote that ends the Republic. Whether he understood what he was doing is never resolved -- which is precisely the Darth Jar-Jar question the fan theory raised and George Lucas never answered: was the incompetence always the cover, or did the incompetence simply produce the same outcome as malice would have? For Boris, the equivalent question is whether the chaos was accidental or structural -- and Dominic Cummings has since argued, with some self-interest, that creative destruction was the point all along. If that reading holds, Boris is not Jar-Jar the buffoon. He is Jar-Jar the mechanism: the figure through whom the emergency powers motion passes, regardless of what he personally understood about what he was doing.
+
+---
+
+*[Cross-references: CA_offal_english.md -- RP as rootless credential; CA_validation_cascade.md -- Cascade mechanism; CA_neon_aesop.md -- Jar-Jar Protocol (Phase 3); CA_style_guide_touchstones.md -- Oxford Stammer, Jar-Jar Protocol entries]*
+*[Sources needed: Purnell / Gimson on Johnson's deliberate performance; sociolinguistics on prestigious hesitation / elite speech markers; interview footage comparison; Lucas / Ahmed Best on original Jar-Jar intent]*
