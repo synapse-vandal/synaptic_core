@@ -538,3 +538,9 @@ Aeon, The Guardian, Overland (Australia), Meanjin.
 - Academic source: MLE (David Britain? Gardner-Chloros?)
 - Confirm Romany chavi as most defensible chav etymology
 - Eshay/sesh etymology secondary source
+
+### AGENCY TIE-IN (NOTE 2026-07-03)
+- Connects to agency content moderation package (in development)
+- Same encryption/detection cycle operates in platform moderation: community evades filter, platform co-opts the pattern (blocklists it), community moves again
+- Structurally identical to the verlan cycle -- ask Sami for package scope/form before developing this thread
+
