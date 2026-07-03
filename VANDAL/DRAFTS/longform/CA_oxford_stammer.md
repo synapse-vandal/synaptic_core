@@ -17,7 +17,7 @@ The second is a twenty-three-year-old in a job interview, asked a question she k
 
 Same phoneme. Entirely different result. Same two letters, same half-second of dead air, and in one mouth they are the sound of authority, and in the other they are the sound of not being quite ready.
 
-This is not a mystery. The sound is not doing the work. The class markers surrounding the sound are doing all of it.
+This is not a mystery. The sound is not doing the work. The class markers surrounding the sound are doing all of it. The language has already encoded this in a phrase: "umming and ah-ing" -- British and Australasian shorthand for indecision, dithering, inability to commit to a position. That is the default decode of the naked phoneme. The Oxford stammer is what happens when the same sound is surrounded by the right formation, and the phrase becomes inapplicable. Nobody would describe a Boris Johnson press conference as Boris "umming and ah-ing." The formation strips the diagnosis from the available vocabulary.
 
 ---
 
