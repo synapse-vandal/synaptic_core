@@ -5,7 +5,7 @@
 **Purpose:** Reference canon for editorial voice, argument framing, and cross-reference. When an essay invokes a formal move or cultural mechanism, this document is the map of where that move was established and what it means in the Carnival Arts frame. Not a reading list. A toolkit.
 **Maintenance:** Add as identified. Flag if a work is being added to the body of an essay -- cross-reference both ways.
 
-**Backlink workflow:** Keep entries here concise -- one or two sentences of function. Deep analysis lives in the essay where the reference is called. When a work is developed in a published essay, add `[See: CA_filename.md]` to the entry and trim the guide entry accordingly. The guide is the index; the essays are the text.
+**Backlink workflow:** Keep entries here concise -- one or two sentences of function. Deep analysis lives in the essay where the reference is called. When a work is developed in a published essay, add `[See: CA_filename.md]` to the entry and trim the guide entry accordingly. The guide is the index; the essays are the text. Where no dedicated essay exists yet, link to `SOUP/editorial_seeds.md` as the staging reference.
 
 ---
 
@@ -184,7 +184,7 @@ Named concepts in use across the canon:
 | GERTY vs HAL | *Moon* (2009) | [CA_neon_aesop.md](CA_neon_aesop.md) |
 | Oxford Stammer | Boris / Rees-Mogg / Macmillan | [CA_oxford_stammer.md](CA_oxford_stammer.md) |
 | Norman/Saxon divide | Offal English; beef/cow | [CA_offal_english.md](CA_offal_english.md) |
-| Verhoeven Problem (TV) | *The Thick of It*, *Black Mirror* | Pending essay |
+| Verhoeven Problem (TV) | *The Thick of It*, *Black Mirror* | [editorial_seeds.md](C:\MASTR\VANDAL\SOUP\editorial_seeds.md) |
 
 ---
 
