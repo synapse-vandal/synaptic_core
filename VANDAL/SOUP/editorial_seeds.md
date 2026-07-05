@@ -604,3 +604,20 @@ KARCHER NOTES:
 FULL SEQUENCE:
   racaille (the label) -> Karcher (the method proposed) -> kaira (the reclamation)
   Contempt, erasure, counter-move.
+
+### INA SOURCE CONFIRMED (2026-07-05)
+Primary source: https://www.ina.fr/ina-eclaire-actu/nicolas-sarkozy-2005-karcher-banlieue-violences-politique-4000-courneuve
+INA (Institut National de l'Audiovisuel) -- France's national audiovisual archive
+
+CORRECTED/UPGRADED QUOTE:
+Sarkozy did not just use 'nettoyer au Karcher' -- he subsequently defended it:
+  'Le terme nettoyer au Karcher est un terme qui s'impose'
+  ('The term "clean with a Karcher" is a term that imposes itself')
+S'IMPOSE = self-evidently correct, inevitable. He doubled down. Not florid rhetoric -- deliberate, defended.
+
+CONTEXT CONFIRMED:
+- La Courneuve, Cite des 4000, 2005
+- After a child was killed by a stray bullet
+- Sarkozy was Interior Minister (not yet President)
+
+NOTE: 'Jimmy the Junky' = need to clarify -- eshay YouTube creator or Housos character?
