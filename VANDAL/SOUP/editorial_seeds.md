@@ -589,3 +589,18 @@ Etymology chain: Vulgar Latin *rasico ('to scrape') -> Old French rascaille ->
 
 THIS IS THE THESIS IN MINIATURE. The Co-optic and the counter-co-optic running simultaneously
 from the same root word, in two languages, across five centuries.
+
+### KARCHER UPDATE (2026-07-05)
+Sarkozy quote: 'Nettoyer la cite au Karcher' (La Courneuve, June 2005 -- after child killed by stray bullet)
+Then Argenteuil, October 2005: 'racaille' quote -> riots
+
+KARCHER NOTES:
+- German brand (Winnenden, Baden-Wurttemberg) -- industrial cleaning product as metaphor for social purification
+  of North African youth in French public housing. Freight of that choice not lost on all hearers.
+- Karcher the company subsequently wrote to Sarkozy asking him to stop using their brand name in this context.
+  The pressure washer manufacturer did not want association with the rhetoric.
+  A commercial brand distancing itself from a politician's ethnic-cleansing metaphor -- footnote that earns its place.
+
+FULL SEQUENCE:
+  racaille (the label) -> Karcher (the method proposed) -> kaira (the reclamation)
+  Contempt, erasure, counter-move.
