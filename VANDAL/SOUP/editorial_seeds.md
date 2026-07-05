@@ -569,3 +569,23 @@ MUSIC PRIMARY TEXTS:
 - 'Gutter rap' / 'lad rap': Kerser and NTER as key artists
 
 HOUSOS/ESHAY BRAH ACTOR: still unverified from this source
+
+### RACAILLE/KAIRA UPDATE (2026-07-05)
+Source: Wiktionary entry for 'racaille'
+
+KEY FIND -- THE ESSAY IN ONE ETYMOLOGY:
+'Racaille' alternative forms: caillera, kaira (Verlan)
+The community Sarkozy called 'racaille' took the word, verlaned it, and wore it as a badge.
+
+THREE MOVES IN ONE WORD:
+1. racaille -> rascal: English domestication over ~500 years (the glacial Co-optic)
+   Same root, 'rascaille' (Old French, 'outcast/rabble') -> English kept the sound, shed the contempt
+2. Sarkozy weaponises racaille: 2005, 'on va nettoyer la racaille' -> riots
+3. Community verlans it -> kaira/caillera: immediate counter-co-optic, contempt reclaimed as badge
+
+Etymology chain: Vulgar Latin *rasico ('to scrape') -> Old French rascaille -> 
+  [English branch] rascal (domesticated, affectionate)
+  [French branch] racaille (contempt retained) -> kaira (verlan reclamation)
+
+THIS IS THE THESIS IN MINIATURE. The Co-optic and the counter-co-optic running simultaneously
+from the same root word, in two languages, across five centuries.
