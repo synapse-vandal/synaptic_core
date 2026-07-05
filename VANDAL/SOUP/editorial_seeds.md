@@ -649,3 +649,22 @@ STRUCTURAL NOTE:
 Spanian's move > kaira move. Kaira reclaims the badge. Spanian sells it back to the people who applied it.
 The contempt has been so thoroughly owned it now generates revenue FROM the contemptuous audience.
 This is the Co-optic running in reverse at commercial scale.
+
+### HOOVER/KARCHER REGISTER NOTE (2026-07-05)
+
+GENERICIZED TRADEMARKS AS VERBS -- same mechanism, opposite register:
+- 'Have you hoovered the sitting room?' (UK): most benign domestic sentence imaginable
+  Intimate scale, household chore, mild comic register. Hoover never had to write to anyone.
+- 'Nettoyer la cite au Karcher': Interior Minister proposing to blast humans out of public housing
+  Industrial scale, dehumanising, aggressive register.
+
+Same linguistic mechanism (proprietary eponym -> generic verb), completely different social freight.
+The brand name absorbs the action -- but the action itself determines what the brand name now carries.
+
+ADDITIONAL LAYER: Karcher is a *German* brand. The choice of German industrial engineering
+as the metaphor for what to do with North African residents of French public housing
+is doing additional work that 'hoover' could never do. Whether conscious or not, it lands differently.
+
+KARCHER COMPANY DISCOMFORT: makes more sense in this light.
+Hoover never had to write to anyone because 'hoovering' never became a metaphor for anything
+other than housework. Karcher did, because it did.
