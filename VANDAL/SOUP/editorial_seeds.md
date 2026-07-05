@@ -621,3 +621,31 @@ CONTEXT CONFIRMED:
 - Sarkozy was Interior Minister (not yet President)
 
 NOTE: 'Jimmy the Junky' = need to clarify -- eshay YouTube creator or Housos character?
+
+### SPANIAN / JIMMY UPDATE (2026-07-05)
+
+JIMMY THE JUNKY:
+- Character in Housos (Australian TV, public housing setting)
+- Had his own spinoff -- character developed enough cultural traction to escape the show frame
+- YouTube clips exist of Jimmy outside the Housos context
+- Significance: fictional eshay character becomes real enough to inhabit YouTube ecosystem
+  without the show's framing. The stigmatised identity carries its own content independently.
+
+SPANIAN:
+- Real person, YouTube channel: https://www.youtube.com/results?search_query=spanian
+- Deliberately leans into eshay aesthetic for audience engagement
+- Reclaiming the language AND monetising the stigma -- subscriber base built on it
+
+THE COMPLETE LOOP (for the article):
+1. Subculture exists organically (inner-south Sydney, early 90s)
+2. Labelled pejoratively ('eshay', 'lad', 'adlay')
+3. Subculture owns label internally (pig latin encoding = self-naming move)
+4. Fictionalised: Housos dramatises public housing / subculture
+5. Fictional character develops independent cultural life: Jimmy spinoff, YouTube presence without show
+6. Real person monetises the stigma: Spanian -- reclaims language, sells it back to the audience that applied it
+7. Mainstream consumes it as content, pays for access
+
+STRUCTURAL NOTE:
+Spanian's move > kaira move. Kaira reclaims the badge. Spanian sells it back to the people who applied it.
+The contempt has been so thoroughly owned it now generates revenue FROM the contemptuous audience.
+This is the Co-optic running in reverse at commercial scale.
