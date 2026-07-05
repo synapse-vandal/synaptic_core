@@ -61,7 +61,7 @@ The term *Cheetopolver* was coined in a specific intellectual context — the cu
 
 The Cheetopolver Risk is the possibility that a concept generated outside the commercial apparatus is absorbed into the commercial apparatus, stripped of its origin, redeployed in a commercial register, and in the process made to serve exactly the thing it was originally describing. The Chaos Arbitrage applied to intellectual property: the dissenting concept as raw material for the dominant system's self-legitimisation.
 
-The Cheetopolver Risk gives the concept its theoretical weight by carrying its own etymology. It originated in cultural domain analysis. It was then found applicable to brand parasitism and media co-option. The origin gives the concept authority precisely because it demonstrates the mechanism it describes: a term coined to describe commercial erasure of organic naming was itself subject to commercial erasure risk. The analysis and the example are the same object.
+The Cheetopolver Risk gives the concept its theoretical weight by carrying its own etymology. It originated in cultural domain analysis. It was then found applicable to brand parasitism and media co-option. The origin gives the concept authority precisely because it demonstrates the mechanism it describes: a term coined to describe commercial erasure of organic naming was itself subject to commercial erasure risk. The analysis and the example are the same object. The full case study -- the Frito-Lay campaign, the SEO burial of the correct term, and the mechanics of corporate linguistic displacement -- is documented in *The Year They Bought the Dictionary*.
 
 ## IV. Co-optic: The Dominant Culture and the Minority Symbol
 
