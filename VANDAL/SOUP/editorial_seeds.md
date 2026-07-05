@@ -544,3 +544,28 @@ Aeon, The Guardian, Overland (Australia), Meanjin.
 - Same encryption/detection cycle operates in platform moderation: community evades filter, platform co-opts the pattern (blocklists it), community moves again
 - Structurally identical to the verlan cycle -- ask Sami for package scope/form before developing this thread
 
+
+### WIKIPEDIA UPDATE (2026-07-05)
+Source: https://en.wikipedia.org/wiki/Eshay
+
+CORRECTIONS TO SEED:
+- Origin: inner-south Sydney (Tempe, Sydenham, St Peters, early 1990s) -- NOT western Sydney
+- Etymology confirmed: Pig Latin for 'sesh' (cannabis smoking session)
+- 'Adlay' = Pig Latin for 'lad' -- alternate term for same subculture
+
+INTERNATIONAL TAXONOMY (from Wikipedia 'See Also' -- does our comparative work):
+- Racaille (France): 'riffraff/scum' -- the word Sarkozy used about banlieue youth in 2005 riots trigger
+  connects directly to verlan/banlieue material. Pejorative label from power to the excluded, exact parallel to 'chav'
+- Gopnik (Eastern Europe): same pattern, extends thesis globally
+- Ned (Scotland): Scottish equivalent
+- Talahon: newer term (origin TBC -- possibly Spanish/LatAm)
+- Chav/Roadman (Britain): explicitly listed
+
+THE STRUCTURAL FORMULA (consistent across all instances):
+  pejorative label from outside + coded internal language + specific sportswear uniform + associated music genre
+  Uniform near-identical: Adidas/Nike, puffer jackets, bumbags, specific shoes (TNs = Nike Air Max Plus in AU)
+
+MUSIC PRIMARY TEXTS:
+- 'Gutter rap' / 'lad rap': Kerser and NTER as key artists
+
+HOUSOS/ESHAY BRAH ACTOR: still unverified from this source
