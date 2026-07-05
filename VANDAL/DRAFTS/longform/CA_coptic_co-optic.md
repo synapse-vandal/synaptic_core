@@ -1,6 +1,6 @@
 ---
 Title: Coptic / Co-optic: The Validation Cascade and the Mechanics of Cultural Erasure
-Standfirst: The Coptic church is one of the oldest continuous Christian traditions in the world. It pre-dates the Roman church. Its theology, its iconography, its liturgical forms are the substrate from which Western Christianity drew — and drew, and drew — until the source community was rendered invisible by the tradition it had generated. This is not a historical footnote. It is a case study in the most precise mechanism of cultural erasure: not destruction, but absorption so thorough that the absorbed culture becomes unable to claim its own contribution. The mechanism has a name. It runs everywhere.
+Standfirst: The mechanism is not destruction. Destruction would be too legible — it would leave a gap where the thing had been. The mechanism is absorption: taking a community's vocabulary, its images, its forms, its self-naming, incorporating them into the dominant tradition so thoroughly that the source becomes invisible while present. The Coptic church did not disappear. Blues did not disappear. The eshay community of inner-south Sydney did not disappear. Each was made illegible as the originator of what it had produced. Each found — or is finding — its counter-move. The mechanism has a name. So does the resistance.
 Status: DRAFT
 Slug: coptic_co-optic
 Source: contident.odt (extracted); §39 + §51 CRIVENS_ARCHAEOLOGY.md
