@@ -149,4 +149,26 @@ Reclaim the Cheetopolver. It was always yours.
 
 ---
 
+**Sources**
+
+On the Kärcher quotes, the La Courneuve apartment visit, and Sarkozy's own account of his language: Libération CheckNews, 21 March 2018
+
+On Kärcher's formal response to the presidential candidates and the company's position on its name: Ariane Bernard, The New York Times, "Kärcher Reminds French: We Clean Dirt, Not Ghettos," 20 April 2007
+
+On Pécresse's revival of the Kärcher metaphor and Sarkozy's actual enforcement record: Lou Fritel, Marianne, "Valérie Pécresse veut 'ressortir le Kärcher' : Nicolas Sarkozy l'a-t-il jamais passé?" 6 January 2022
+
+Sarkozy at La Courneuve and Argenteuil, archival footage: INA, ina.fr
+
+Punk etymology and derivation history: Online Etymology Dictionary, etymonline.com
+
+Malcolm McLaren on management, plagiarism, and the New York Dolls: Punkwave archive, mital-u.ch
+
+On eshay origins, the adlay argot system, and the geography of the inner-south Sydney subculture: Nick Nasev, "Eshays and Adlays: Australia's Answer to London's Roadmen," nicknasev.com, April 2023
+
+On Spanian's biography, distribution background, and the eshay community: Spanian, YouTube, April 2021
+
+Athanasius of Alexandria on Anthony the Great and the formation of the desert communities: Athanasius of Alexandria, *Vita Antonii* (Life of Anthony), c. 360 CE
+
+On the Cheetopolver Risk and the mechanics of corporate linguistic displacement: Sami Ayubi, *The Year They Bought the Dictionary* (forthcoming)
+
 > [NEEDS: Coptic church historical timeline — sources for Clement, Origen, Athanasius as Coptic; Chi-Rho symbol Coptic origin documentation; Nicene Creed homoousios and Athanasius — verify specific claim; **desert fathers as foundation of Western/Eastern monasticism CONFIRMED: Wikipedia/Desert Fathers — Desert Fathers explicitly Coptic; Athanasius of Alexandria biographer + listed among notable Desert Fathers; Cassian → Benedictine Rule pathway confirmed; Mount Athos Eastern pathway confirmed; Athanasius "the desert had become a city" quote confirmed**; Chaos Arbitrage — any existing academic literature on co-option mechanisms (Naomi Klein *No Logo* on punk co-option; *This Is Not a T-Shirt* by Bobby Hundreds); BLM corporate diversity rollback — specific documented cases; Validation Cascade legal application — Birkinhead Axis source material confirmation; Cheetopolver Risk etymology — confirm origin sequence in source material; **SPANIAN — primary source video for biography/100k-week claim: https://www.youtube.com/watch?v=lC0rAebf1ZU — uploaded April 27 2021 — cite as "by his own account" + timestamp before publication**; **Sarkozy/Kärcher — PRIMARY SOURCE CONFIRMED: Libération CheckNews 21/03/2018**; **Kärcher company response CONFIRMED: NYT 20/04/2007**; **Pécresse/Kärcher 2022 CONFIRMED: Marianne 06/01/2022**; INA footage: https://www.ina.fr/ina-eclaire-actu/nicolas-sarkozy-2005-karcher-banlieue-violences-politique-4000-courneuve; **punk word etymology CONFIRMED via Etymonline https://www.etymonline.com/word/punk**; **McLaren/New York Dolls management CONFIRMED: mital-u.ch**; **eshay origin SOURCED (non-academic): nicknasev.com (Nick Nasev, Apr 2023) — confirm against academic source before publication**]

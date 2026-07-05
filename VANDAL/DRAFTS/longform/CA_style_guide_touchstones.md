@@ -168,6 +168,64 @@ Named concepts in use across the canon:
 
 ---
 
+## EDITORIAL CONVENTIONS
+
+### Sources / Bibliography
+
+Every published piece ends with a **Sources** block. Format follows the Iron Hull/Gqom piece (first established there; replicated in CA_coptic_co-optic.md).
+
+**Rules:**
+- Bold heading: `**Sources**` — not a `##` header, not "Bibliography," not "References"
+- No numbering, no bullet points — plain paragraphs, one source per line
+- Separator: goes after the closing `---` rule, before any `> [NEEDS...]` draft block
+- The NEEDS block is internal only and does not publish
+
+**Format by source type:**
+
+*Journalism / web:*
+> On [topic the source covers]: [Author], [Publication], "[Title," Date]
+
+*Or for wire/archival/footage:*
+> [Subject, archival context]: [Institution], [Platform/URL], [Date if known]
+
+*Books:*
+> [Author], *Title*, Publisher, Year
+
+*Ongoing/internal work:*
+> [Author], *Title* (forthcoming) — or (in progress)
+
+*Primary/historical source:*
+> [Author] on [subject]: [Author], *Work*, c. [Date]
+
+**Examples (from CA_coptic_co-optic.md):**
+```
+On Kärcher's formal response to the presidential candidates: Ariane Bernard, The New York Times, "Kärcher Reminds French: We Clean Dirt, Not Ghettos," 20 April 2007
+
+Punk etymology and derivation history: Online Etymology Dictionary, etymonline.com
+
+Athanasius of Alexandria on Anthony the Great and the formation of the desert communities: Athanasius of Alexandria, *Vita Antonii* (Life of Anthony), c. 360 CE
+```
+
+---
+
+### Publishing to Substack
+
+Substack does not render markdown. Raw `.md` paste produces literal asterisks.
+
+**Workflow (lowest friction):**
+1. Open the `.md` file in VS Code
+2. Toggle markdown preview: `Ctrl+Shift+V`
+3. Select all in the preview pane → copy → paste into Substack editor
+4. The rich text editor accepts the rendered HTML and picks up bold, italic, headings, blockquotes, `---` rules correctly
+
+**Strip before pasting:** The YAML frontmatter block (the `--- ... ---` metadata at the top of the file) and any `> [NEEDS...]` draft blocks. Either delete from the file first or remove from the Substack editor after pasting.
+
+**What survives the paste:** headings, bold, italic, blockquotes, horizontal rules, links, italicised book titles.  
+**What doesn't:** tables, footnotes, nested lists (sometimes), custom HTML.
+
+---
+
+
 ## CROSS-REFERENCE INDEX
 
 | Concept | Primary locus | Essays |
